@@ -1,0 +1,8 @@
+{
+  "repo": "E:/ne_vat_can/Depth-Anything-V2",
+  "checkpoint": "E:/ne_vat_can/models/depth_anything_v2_metric_indoor_small.pth",
+  "encoder": "vits",
+  "max_depth": 20.0,
+  "input_size": 266,
+  "cpu_threads": 2
+}
